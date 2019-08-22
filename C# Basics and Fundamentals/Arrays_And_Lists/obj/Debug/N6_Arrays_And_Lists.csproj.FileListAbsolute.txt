@@ -1,0 +1,7 @@
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\bin\Debug\Learning_Videos_12AM_200819.exe.config
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\bin\Debug\Learning_Videos_12AM_200819.exe
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\bin\Debug\Learning_Videos_12AM_200819.pdb
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\obj\Debug\N6_Arrays_And_Lists.csprojAssemblyReference.cache
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\obj\Debug\N6_Arrays_And_Lists.csproj.CoreCompileInputs.cache
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\obj\Debug\Learning_Videos_12AM_200819.exe
+D:\Development\C#\Codes\Learning_Videos_12AM_200819\obj\Debug\Learning_Videos_12AM_200819.pdb
