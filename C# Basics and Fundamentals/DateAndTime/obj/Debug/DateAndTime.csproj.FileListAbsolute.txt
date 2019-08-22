@@ -1,0 +1,7 @@
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\bin\Debug\DateAndTime.exe.config
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\bin\Debug\DateAndTime.exe
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\bin\Debug\DateAndTime.pdb
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\obj\Debug\DateAndTime.csprojAssemblyReference.cache
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\obj\Debug\DateAndTime.exe
+D:\Development\C#\Codes\LearningCSharp\C# Basics and Fundamentals\DateAndTime\obj\Debug\DateAndTime.pdb
