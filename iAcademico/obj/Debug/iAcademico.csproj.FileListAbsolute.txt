@@ -1,0 +1,12 @@
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.csprojAssemblyReference.cache
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.Properties.Resources.resources
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.csproj.GenerateResource.cache
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.csproj.CoreCompileInputs.cache
+D:\Development\C#\Codes\iAcademico\bin\Debug\iAcademico.exe.config
+D:\Development\C#\Codes\iAcademico\bin\Debug\iAcademico.exe
+D:\Development\C#\Codes\iAcademico\bin\Debug\iAcademico.pdb
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.View.F_VIEW_Add.resources
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.View.F_VIEW_MainMenu.resources
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.View.F_VIEW_Visualize.resources
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.exe
+D:\Development\C#\Codes\iAcademico\obj\Debug\iAcademico.pdb
